@@ -6,7 +6,11 @@ class RevealOnScroll {
     this.itemsToReveal =  els;
     this.offsetPercentage = offset;
     this.hideInitially();
+<<<<<<< HEAD
     this.createWaypoints();
+=======
+    this.createWaypoints();  
+>>>>>>> reveal-on-scroll
   }
 
   hideInitially(){
