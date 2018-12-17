@@ -60,20 +60,11 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-<<<<<<< HEAD
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
-=======
 /******/ 	return __webpack_require__(__webpack_require__.s = 1);
->>>>>>> reveal-on-scroll
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
-<<<<<<< HEAD
-/***/ (function(module, exports) {
-
-throw new Error("Module build failed: SyntaxError: C:/Users/Tina0/Desktop/Sites/travel-site/app/assets/scripts/App.js: Unexpected token (8:0)\n\n   6 | new RevealOnScroll($(\".feature-item\"), \"85%\");\n   7 | new RevealOnScroll($(\".testimonial\"), \"60%\");\n>  8 | =======\n     | ^\n   9 | >>>>>>> reveal-on-scroll\n  10 | \n");
-=======
 /***/ (function(module, exports, __webpack_require__) {
 
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
@@ -11231,7 +11222,6 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
   Waypoint.Adapter = NoFrameworkAdapter
 }())
 ;
->>>>>>> reveal-on-scroll
 
 /***/ })
 /******/ ]);
